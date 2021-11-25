@@ -1,11 +1,8 @@
 import discord
-from discord.ext import commands
-import random
-import json
 import os
-from requests import get
 import aiohttp
 import praw
+import asyncio
 
 os.chdir("C:\\Users\\kicon\\Desktop\\coding\\DiscordBot")
 
