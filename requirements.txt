@@ -1,4 +1,4 @@
-import discord
+discord
 json
 os
 aiohttp
