@@ -1,5 +1,4 @@
 discord
-json
 os
 aiohttp
 praw
