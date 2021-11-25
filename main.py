@@ -420,4 +420,4 @@ async def _8ball(ctx, *, question):
 async def clear(ctx, amount=5):
 	await ctx.channel.purge(limit=amount)
 
-client.run('OTAyOTg0NzUzNzc3NjA2NzM4.YXmYFQ.HK1_EYWDPRl7i5dky8-rudz8j9w')
+client.run('token')
